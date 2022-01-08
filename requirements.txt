@@ -1,0 +1,7 @@
+flask
+#turbo_flask
+gunicorn
+greenlet
+gevent
+#opencv-contrib-python
+opencv-contrib-python==4.1.0.25
